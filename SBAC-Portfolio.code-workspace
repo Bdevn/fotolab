@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "../sbac"
+        },
+        {
+            "path": "."
+        },
+        {
+            "path": "../techon"
+        },
+        {
+            "path": "../bsboiler"
+        }
+    ]
+}
