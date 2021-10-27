@@ -12,5 +12,8 @@
         {
             "path": "../bsboiler"
         }
-    ]
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "sbac"
+    }
 }
